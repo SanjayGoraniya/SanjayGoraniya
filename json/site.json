@@ -1,4 +1,4 @@
-{ 
+{
     "name": "Sanjay Goraniya | Full Stack Software Engineer",
     "title": "Sanjay Goraniya | Full Stack Software Engineer",
     "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
@@ -9,8 +9,7 @@
     "logo": "/img/logo/logo1.png",
     "siteMetadata": {
         "title": "Sanjay Goraniya | Full Stack Software Engineer",
-        "description":
-            "Sanjay Goraniya is a software engineer specializing in building websites, applications, and everything in between.",
+        "description": "Sanjay Goraniya is a software engineer specializing in building websites, applications, and everything in between.",
         "siteUrl": "https://sanjaygoraniya.github.io",
         "image": "/img/og.png",
         "twitterUsername": "@sanjayrgoraniya"
@@ -54,108 +53,318 @@
             "specialty": "Senior Full Stack Developer / AWS Expert"
         },
         "skills": {
-            "languages": ["JavaScript (ES6+)", "TypeScript", "PHP", "HTML", "CSS/Sass", "Python", "GraphQL"],
-            "frameworks": ["Node.js", "React", "Express", "jQuery", "Nunjucks", "Vue", "Wordpress", "Socket.IO", "Tailwind CSS", "Craft CMS", "Bootstrap", "Material UI"],
-            "tools": ["Bash", "Git & Github", "Docker", "Chrome DevTools", "Postman", "MongoDB", "Passport.js","MySQL", "AWS", "Reaction Commerce", "Hasura"],
-            "design": ["Sketch", "InDesign", "InVision", "Prototyping", "User Testing"]
+            "languages": [
+                "JavaScript (ES6+)",
+                "TypeScript",
+                "PHP",
+                "HTML",
+                "CSS/Sass",
+                "Python",
+                "GraphQL"
+            ],
+            "frameworks": [
+                "Node.js",
+                "React",
+                "Express",
+                "jQuery",
+                "Nunjucks",
+                "Vue",
+                "Wordpress",
+                "Socket.IO",
+                "Tailwind CSS",
+                "Craft CMS",
+                "Bootstrap",
+                "Material UI"
+            ],
+            "tools": [
+                "Bash",
+                "Git & Github",
+                "Docker",
+                "Chrome DevTools",
+                "Postman",
+                "MongoDB",
+                "Passport.js",
+                "MySQL",
+                "AWS",
+                "Reaction Commerce",
+                "Hasura"
+            ],
+            "design": [
+                "Sketch",
+                "InDesign",
+                "InVision",
+                "Prototyping",
+                "User Testing"
+            ]
         },
-        "experience": [{
-            "company": "Stack Summation",
-            "url": "https://www.stacksummation.com",
-            "time": "May 2021 - Present",
-            "position": "Senior Full Stack Developer"
-        },{
-            "company": "Techitree",
-            "url": "https://www.techitree.com/",
-            "time": "October 2019 - December 2020",
-            "position": "MERN Developer"
-        },{
-            "company": "AIS Technolabs",
-            "url": "https://www.aistechnolabs.com/",
-            "time": "April 2019 - October 2019",
-            "position": "NodeJS Developer"
-        },{
-            "company": "IANT (Institute Of Advance Network Technology)",
-            "url": "https://www.iantindia.com/",
-            "time": "June 2016 - July 2017",
-            "position": "PHP Developer"
-        }],
-        "otherProjects": [{
-            "name": "IntelliTrack",
-            "description": "IntelliTrack is used to manage projects for contractors.",
-            "used": ["React", "HTML", "CSS", "JavaScript", "Material UI", "Amplify"],
-            "links" : []
-        },{
-            "name": "UP",
-            "description": "UP is a tool which used to analyse and optimise business agility and performance.",
-            "used": ["React", "HTML", "CSS", "JavaScript", "Bootstrap"],
-            "links" : []
-        },{
-            "name": "ReadyForWork",
-            "description": "ReadyForWork is a platform that allows coaches to build online courses on their preferred tracks.",
-            "used": ["Node", "Express", "React", "HTML", "CSS", "Bootstrap", "Material UI"],
-            "links" : []
-        },{
-            "name": "Personal Website V1",
-            "description": "My first portfolio website I designed and built in 2020. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.",
-            "used": ["JavaScript", "ReactJS", "HTML", "CSS", "axios", "React Context"],
-            "links" : [
-                {
-                    "title": "Website",
-                    "url": "https://sanjaygoraniya.github.io"
-                },
-                {
-                    "title": "GitHub",
-                    "url": "https://github.com/sanjaygoraniya/sanjaygoraniya.github.io"
-                }
-            ]
-        },{
-            "name": "WhatsApp Clone - Design",
-            "description": "Small CSS design project created during my free time.",
-            "used": ["JavaScript", "HTML", "CSS"],
-            "links" : []
-        },{
-            "name": "Blog management",
-            "description": "A complete solution to share knowledge, write blog, manage blog and profile.",
-            "used": ["Node", "JavaScript", "GraphQL", "MongoDB", "React"],
-            "links" : []
-        },{
-            "name": "Ecommerce–LuxyList",
-            "description": "LuxyList is e-commerce website like online store",
-            "used": ["RC(Reaction-Commerce)", "Node", "JavaScript", "HTML","CSS", "GraphQL", "MongoDB", "Next"],
-            "links" : []
-        },{
-            "name": "CareerChips",
-            "description": "This web application is using for hire IT resource. CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
-            "used": [ "Node", "GraphQL", "JavaScript", "MongoDB", "React"],
-            "links" : [
-                {
-                    "title": "Website",
-                    "url": "http://www.careerchips.com"
-                }
-            ]
-        },{
-            "name": "CSGOClub",
-            "description": "CSGOClub is a web application for multiple games. In this project more then 10(ten) games are developed.",
-            "used": ["Node", "Express", "MySQL", "JavaScript", "jQuery", "HTML", "CSS"],
-            "links" : []
-        }],
+        "experience": [
+            {
+                "company": "Stack Summation",
+                "url": "https://www.stacksummation.com",
+                "time": "May 2021 - Present",
+                "position": "Senior Full Stack Developer"
+            },
+            {
+                "company": "Techitree",
+                "url": "https://www.techitree.com/",
+                "time": "October 2019 - December 2020",
+                "position": "MERN Developer"
+            },
+            {
+                "company": "AIS Technolabs",
+                "url": "https://www.aistechnolabs.com/",
+                "time": "April 2019 - October 2019",
+                "position": "NodeJS Developer"
+            },
+            {
+                "company": "IANT (Institute Of Advance Network Technology)",
+                "url": "https://www.iantindia.com/",
+                "time": "June 2016 - July 2017",
+                "position": "PHP Developer"
+            }
+        ],
+        "otherProjects": [
+            {
+                "name": "IntelliTrack",
+                "description": "IntelliTrack is used to manage projects for contractors.",
+                "used": [
+                    "React",
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Material UI",
+                    "Amplify"
+                ],
+                "links": []
+            },
+            {
+                "name": "UP",
+                "description": "UP is a tool which used to analyse and optimise business agility and performance.",
+                "used": [
+                    "React",
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Bootstrap"
+                ],
+                "links": []
+            },
+            {
+                "name": "ReadyForWork",
+                "description": "ReadyForWork is a platform that allows coaches to build online courses on their preferred tracks.",
+                "used": [
+                    "Node",
+                    "Express",
+                    "React",
+                    "HTML",
+                    "CSS",
+                    "Bootstrap",
+                    "Material UI"
+                ],
+                "links": []
+            },
+            {
+                "name": "Personal Website V1",
+                "description": "My first portfolio website I designed and built in 2020. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.",
+                "used": [
+                    "JavaScript",
+                    "ReactJS",
+                    "HTML",
+                    "CSS",
+                    "axios",
+                    "React Context"
+                ],
+                "links": [
+                    {
+                        "title": "Website",
+                        "url": "https://sanjaygoraniya.github.io"
+                    },
+                    {
+                        "title": "GitHub",
+                        "url": "https://github.com/sanjaygoraniya/sanjaygoraniya.github.io"
+                    }
+                ]
+            },
+            {
+                "name": "WhatsApp Clone - Design",
+                "description": "Small CSS design project created during my free time.",
+                "used": [
+                    "JavaScript",
+                    "HTML",
+                    "CSS"
+                ],
+                "links": []
+            },
+            {
+                "name": "Blog management",
+                "description": "A complete solution to share knowledge, write blog, manage blog and profile.",
+                "used": [
+                    "Node",
+                    "JavaScript",
+                    "GraphQL",
+                    "MongoDB",
+                    "React"
+                ],
+                "links": []
+            },
+            {
+                "name": "Ecommerce–LuxyList",
+                "description": "LuxyList is e-commerce website like online store",
+                "used": [
+                    "RC(Reaction-Commerce)",
+                    "Node",
+                    "JavaScript",
+                    "HTML",
+                    "CSS",
+                    "GraphQL",
+                    "MongoDB",
+                    "Next"
+                ],
+                "links": []
+            },
+            {
+                "name": "CareerChips",
+                "description": "This web application is using for hire IT resource. CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
+                "used": [
+                    "Node",
+                    "GraphQL",
+                    "JavaScript",
+                    "MongoDB",
+                    "React"
+                ],
+                "links": [
+                    {
+                        "title": "Website",
+                        "url": "http://www.careerchips.com"
+                    }
+                ]
+            },
+            {
+                "name": "CSGOClub",
+                "description": "CSGOClub is a web application for multiple games. In this project more then 10(ten) games are developed.",
+                "used": [
+                    "Node",
+                    "Express",
+                    "MySQL",
+                    "JavaScript",
+                    "jQuery",
+                    "HTML",
+                    "CSS"
+                ],
+                "links": []
+            }
+        ],
         "social": [
-            { 
+            {
                 "title": "Email",
                 "url": "mailto:sanjayrgoraniya@gmail.com"
             },
-            { 
+            {
                 "title": "Instagram",
                 "url": "https://www.instagram.com/sanjayrgoraniya"
             },
-            { 
+            {
                 "title": "GitHub",
                 "url": "https://github.com/sanjaygoraniya"
             },
-            { 
+            {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/sanjaygoraniya"
+            }
+        ],
+        "allTopics": [
+            { "title": "nodejs", "name": "Nodejs" },
+            { "title": "reactjs", "name": "Reactjs" },
+            { "title": "javascript", "name": "JavaScript" },
+            { "title": "TypeScript", "name": "TypeScript" },
+            { "title": "PHP", "name": "PHP" },
+            { "title": "HTML", "name": "HTML" },
+            { "title": "CSS", "name": "CSS" },
+            { "title": "Sass", "name": "Sass" },
+            { "title": "Python", "name": "Python" },
+            { "title": "GraphQL", "name": "GraphQL" },
+            { "title": "Node.js", "name": "Node.js" },
+            { "title": "React", "name": "React" },
+            { "title": "Express", "name": "Express" },
+            { "title": "jQuery", "name": "jQuery" },
+            { "title": "Nunjucks", "name": "Nunjucks" },
+            { "title": "Vue", "name": "Vue" },
+            { "title": "Wordpress", "name": "Wordpress" },
+            { "title": "Socket.IO", "name": "Socket.IO" },
+            { "title": "Tailwind-CSS", "name": "Tailwind CSS" },
+            { "title": "Craft-CMS", "name": "Craft CMS" },
+            { "title": "Bootstrap", "name": "Bootstrap" },
+            { "title": "Material-UI", "name": "Material UI" },
+            { "title": "Bash", "name": "Bash" },
+            { "title": "Git", "name": "Git" },
+            { "title": "Github", "name": "Github" },
+            { "title": "Docker", "name": "Docker" },
+            { "title": "Chrome DevTools", "name": "Chrome DevTools" },
+            { "title": "Postman", "name": "Postman" },
+            { "title": "MongoDB", "name": "MongoDB" },
+            { "title": "Passport.js", "name": "Passport.js" },
+            { "title": "MySQL", "name": "MySQL" },
+            { "title": "AWS", "name": "AWS" },
+            { "title": "Reaction-Commerce", "name": "Reaction Commerce" },
+            { "title": "Hasura", "name": "Hasura" },
+            { "title": "Prototyping", "name": "Prototyping" },
+            { "title": "User-Testing", "name": "User Testing" }
+        ],
+        "topics": [
+            { 
+                "aliases": ["js", "javascript", "es", "es6", "ecmascripts"],
+                "name": "JavaScript", 
+                "createdBy": "Brendan Eich", 
+                "released": "December 4, 1995",
+                "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+                "wikipedia": "https://en.wikipedia.org/wiki/JavaScript",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png",
+                "description": "JavaScript (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.",
+                "related": ["nodejs"]
+            },
+            { 
+                "aliases": ["node", "nodejs", "node.js"],
+                "name": "Node.js", 
+                "createdBy": "Ryan Dahl", 
+                "released": "May 27, 2009",
+                "website": "https://nodejs.org/en/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Node.js",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png",
+                "description": "Node.js is a tool for executing JavaScript in a variety of environments. JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.",
+                "related": ["javascript", "mongodb"]
+            },
+            { 
+                "aliases": ["react", "reactjs", "react.js"],
+                "name": "reactjs", 
+                "createdBy": "Jordan Walke", 
+                "released": "March 2013",
+                "website": "https://reactjs.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png",
+                "description": "React (also known as React.js or ReactJS) is a JavaScript library that makes developing interactive user interfaces simple.",
+                "related": ["angular", "react-native", "vue"]
+            },
+            { 
+                "aliases": ["TypeScript", "ts"],
+                "name": "TypeScript", 
+                "createdBy": "Microsoft", 
+                "released": "October 1, 2012",
+                "website": "https://www.typescriptlang.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/TypeScript",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png",
+                "description": "TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard.\n It is a syntactical superset of the JavaScript programming language; all valid JavaScript source code is also valid TypeScript source code, but not vice-versa. TypeScript compiles (or transpiles) to JavaScript, meaning that it can be utilized to target any JavaScript environment. It can be used to develop JavaScript for both client-side and server-side applications.",
+                "related": ["angular", "react-native", "vue"]
+            },
+            { 
+                "aliases": ["PHP"],
+                "name": "PHP",
+                "createdBy": "Rasmus Lerdorf", 
+                "released": "June 8, 1995",
+                "website": "https://secure.php.net/",
+                "wikipedia": "https://en.wikipedia.org/wiki/PHP",
+                "logo": "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png",
+                "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf.",
+                "related": ["node", "react"]
             }
         ]
     }
