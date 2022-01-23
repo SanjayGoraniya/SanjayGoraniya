@@ -314,7 +314,7 @@
         ],
         "topics": [
             { 
-                "aliases": ["js", "javascript", "es", "es6", "ecmascripts"],
+                "aliases": ["js", "javascript", "es", "es6", "ecmascripts", "javascript (es6+)"],
                 "name": "JavaScript", 
                 "createdBy": "Brendan Eich", 
                 "released": "December 4, 1995",
@@ -567,7 +567,7 @@
                 "related": []
             },
             { 
-                "aliases": ["craftcms", "craft"],
+                "aliases": ["craftcms", "craft cms", "craft"],
                 "name": "Craft CMS",
                 "createdBy": "",
                 "released": "",
