@@ -543,6 +543,39 @@
                 "logo": "",
                 "description": "An API can be thought of as an instruction manual for communication between multiple software apparatuses. For example, an API may be used for database communication between web applications. By extracting the implementation and relinquishing data into objects, an API simplifies programming.",
                 "related": ["rest", "graphql-api"]
+            },
+            { 
+                "aliases": ["docker"],
+                "name": "Docker",
+                "createdBy": "Solomon Hykes",
+                "released": "March 2013",
+                "website": "https://www.docker.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Docker_(software)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png",
+                "description": "Docker is software that provides containers, which allows teams to emulate development environments. Docker began as an internal project, initially developed by dotCloud engineers.",
+                "related": []
+            },
+            { 
+                "aliases": ["wordpress"],
+                "name": "WordPress",
+                "createdBy": "Matt Mullenweg, Mike Little",
+                "released": "May 27, 2003",
+                "website": "https://wordpress.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/WordPress",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png",
+                "description": "WordPress is a popular content management system, used for websites and blogs. WordPress is written in PHP and MySQL and is designed to be flexible and user-friendly.",
+                "related": []
+            },
+            { 
+                "aliases": ["craftcms", "craft"],
+                "name": "Craft CMS",
+                "createdBy": "",
+                "released": "",
+                "website": "https://craftcms.com/",
+                "wikipedia": "",
+                "logo": "https://avatars.githubusercontent.com/u/22369139?s=200&v=4",
+                "description": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
+                "related": []
             }
         ]
     }
