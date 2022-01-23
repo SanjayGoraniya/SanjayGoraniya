@@ -308,7 +308,9 @@
             { "title": "Reaction-Commerce", "name": "Reaction Commerce" },
             { "title": "Hasura", "name": "Hasura" },
             { "title": "Prototyping", "name": "Prototyping" },
-            { "title": "User-Testing", "name": "User Testing" }
+            { "title": "User-Testing", "name": "User Testing" },
+            { "title": "rest", "name": "REST" },
+            { "title": "api", "name": "API" }
         ],
         "topics": [
             { 
@@ -409,6 +411,105 @@
                 "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
                 "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.",
                 "related": ["node", "php"]
+            },
+            { 
+                "aliases": ["graphql"],
+                "name": "GraphQL",
+                "createdBy": "Facebook", 
+                "released": "2015",
+                "website": "http://graphql.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/GraphQL",
+                "logo": "https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png",
+                "description": "GraphQL is a data query language developed by Facebook. It provides an alternative to REST and ad-hoc webservice architectures. It allows clients to define the structure of the data required, and exactly the same structure of the data is returned from the server. It is a strongly typed runtime which allows clients to dictate what data is needed.",
+                "related": ["api", "rest"]
+            },
+            { 
+                "aliases": ["express", "expressjs"],
+                "name": "Express",
+                "createdBy": "TJ Holowaychuk", 
+                "released": "November 16, 2010",
+                "website": "https://expressjs.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Express.js",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png",
+                "description": "Express.js is a simple Node.js framework for single, multi-page, and hybrid web applications.",
+                "related": []
+            },
+            { 
+                "aliases": ["jquery"],
+                "name": "jQuery",
+                "createdBy": "John Resig", 
+                "released": "January 2006",
+                "website": "https://jquery.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/JQuery",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png",
+                "description": "jQuery is a lightweight library that simplifies programming with JavaScript. It builds on top of browser function and accomplishes programming tasks with fewer lines of code.",
+                "related": []
+            },
+            { 
+                "aliases": ["nunjucks"],
+                "name": "Nunjucks",
+                "createdBy": "", 
+                "released": "September 2012",
+                "website": "https://mozilla.github.io/nunjucks/",
+                "wikipedia": "",
+                "logo": "https://raw.githubusercontent.com/github/explore/2c576740b17c01da594efd40a1c4ee7a2f52b60f/topics/nunjucks/nunjucks.jpg",
+                "description": "Nunjucks is a templating language that is compiled using JavaScript. Although language agnostic it is typically used to create HTML files. It allows for source code to be simplified using macros or blocks, avoiding repetition, and supports inheritance.",
+                "related": []
+            },
+            { 
+                "aliases": ["vue", "vuejs"],
+                "name": "Vue.js",
+                "createdBy": "Evan You", 
+                "released": "February 2014",
+                "website": "https://vuejs.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Vue.js",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png",
+                "description": "Vue is a JavaScript framework for building websites. The intent of Vue is to make the integration of other JavaScript libraries easy. It is designed to organize and simplify web development.",
+                "related": ["angular", "react"]
+            },
+            { 
+                "aliases": ["aws", "amazonwebservices"],
+                "name": "Amazon Web Services",
+                "createdBy": "Amazon", 
+                "released": "March 2006",
+                "website": "https://aws.amazon.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+                "logo": "https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png",
+                "description": "Amazon Web Services is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies, and governments, on a subscription basis.",
+                "related": ["amazon"]
+            },
+            { 
+                "aliases": ["github", "gh"],
+                "name": "GitHub",
+                "createdBy": "Chris Wanstrath, PJ Hyett, Tom Preston-Werner, and Scott Chacon", 
+                "released": "April 10, 2008",
+                "website": "https://github.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/GitHub",
+                "logo": "https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png",
+                "description": "GitHub makes it easier for developers to be developers: to work together, to solve challenging problems, to create the world’s most important technologies.",
+                "related": ["git"]
+            },
+            { 
+                "aliases": ["mongodb", "mongo"],
+                "name": "MongoDB",
+                "createdBy": "MongoDB Inc.", 
+                "released": "February 11, 2009",
+                "website": "https://www.mongodb.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/MongoDB",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png",
+                "description": "MongoDB is an open source NoSQL document-oriented database. MongoDB allows flexible schema representation instead of relying on fixed tables and columns. It supports full indexing, query, aggregation, tunable consistency and durability levels, and linear horizontal scaling through sharding.",
+                "related": ["mysql"]
+            },
+            { 
+                "aliases": ["mysql"],
+                "name": "MySQL",
+                "createdBy": "David Axmark, Allan Larsson and Michael 'Monty' Widenius", 
+                "released": "May 23, 1995",
+                "website": "https://www.mysql.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/MySQL",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png",
+                "description": "MySQL is an open source relational database management system. Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++.",
+                "related": ["mongodb"]
             }
         ]
     }
