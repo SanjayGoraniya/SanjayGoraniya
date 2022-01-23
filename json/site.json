@@ -510,6 +510,28 @@
                 "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png",
                 "description": "MySQL is an open source relational database management system. Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++.",
                 "related": ["mongodb"]
+            },
+            { 
+                "aliases": ["git"],
+                "name": "Git",
+                "createdBy": "Linus Torvalds", 
+                "released": "April 7, 2005",
+                "website": "https://git-scm.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Git",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png",
+                "description": "Git is the most widely used version control system, which allows for the tracking and managing of source code over time. It was designed for collaboration and built to be flexible, secure and efficient.",
+                "related": ["github"]
+            },
+            { 
+                "aliases": ["rest"],
+                "name": "REST",
+                "createdBy": "Linus Torvalds", 
+                "released": "",
+                "website": "",
+                "wikipedia": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+                "logo": "",
+                "description": "A representational state transfer (REST) API is a way to provide compatibility between computer systems on the Internet. The concept was first outlined in a dissertation by Roy Fielding in 2000.",
+                "related": ["github"]
             }
         ]
     }
