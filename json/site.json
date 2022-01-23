@@ -525,7 +525,7 @@
             { 
                 "aliases": ["rest"],
                 "name": "REST",
-                "createdBy": "Linus Torvalds", 
+                "createdBy": "", 
                 "released": "",
                 "website": "",
                 "wikipedia": "https://en.wikipedia.org/wiki/Representational_state_transfer",
