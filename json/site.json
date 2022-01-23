@@ -224,7 +224,7 @@
             },
             {
                 "name": "CareerChips",
-                "description": "This web application is using for hire IT resource. CareerChips doesn’t ask for any login and that benefits individuals to refer their friends.",
+                "description": "This web application is using for hire IT resource. CareerChips doesn't ask for any login and that benefits individuals to refer their friends.",
                 "used": [
                     "Node",
                     "GraphQL",
@@ -365,6 +365,50 @@
                 "logo": "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png",
                 "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf.",
                 "related": ["node", "react"]
+            },
+            { 
+                "aliases": ["html"],
+                "name": "HTML",
+                "createdBy": "Tim Berners-Lee", 
+                "released": "June 1993",
+                "website": "https://www.w3.org/html/",
+                "wikipedia": "https://en.wikipedia.org/wiki/HTML",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png",
+                "description": "HTML, or Hypertext Markup Language, was primarily designed to provide a means of creating structured scientific documents. HTML can embed scripting languages such as PHP or JavaScript to affect the behavior and content of web pages. The World Wide Web Consortium (W3C) maintains both the HTML and CSS standards.",
+                "related": []
+            },
+            { 
+                "aliases": ["css"],
+                "name": "CSS",
+                "createdBy": "Håkon Wium, Lie Bert Bos", 
+                "released": "December 17, 1996",
+                "website": "https://www.w3.org/Style/CSS/Overview.en.html",
+                "wikipedia": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png",
+                "description": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of websites. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user.",
+                "related": ["sass"]
+            },
+            { 
+                "aliases": ["sass"],
+                "name": "Sass",
+                "createdBy": "Hampton Catlin, Natalie Weizenbaum, Chris Eppstein", 
+                "released": "November 28, 2006",
+                "website": "http://sass-lang.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png",
+                "description": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax.",
+                "related": ["css"]
+            },
+            { 
+                "aliases": ["python"],
+                "name": "Python",
+                "createdBy": "Guido van Rossum", 
+                "released": "February 20, 1991",
+                "website": "https://www.python.org/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png",
+                "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.",
+                "related": ["node", "php"]
             }
         ]
     }
