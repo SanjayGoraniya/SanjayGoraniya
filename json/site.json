@@ -413,7 +413,7 @@
                 "related": ["node", "php"]
             },
             { 
-                "aliases": ["graphql"],
+                "aliases": ["graphql", "graphql-api"],
                 "name": "GraphQL",
                 "createdBy": "Facebook", 
                 "released": "2015",
@@ -531,7 +531,18 @@
                 "wikipedia": "https://en.wikipedia.org/wiki/Representational_state_transfer",
                 "logo": "",
                 "description": "A representational state transfer (REST) API is a way to provide compatibility between computer systems on the Internet. The concept was first outlined in a dissertation by Roy Fielding in 2000.",
-                "related": ["github"]
+                "related": ["api", "graphql-api"]
+            },
+            { 
+                "aliases": ["api"],
+                "name": "API",
+                "createdBy": "",
+                "released": "",
+                "website": "",
+                "wikipedia": "https://en.wikipedia.org/wiki/Application_programming_interface",
+                "logo": "",
+                "description": "An API can be thought of as an instruction manual for communication between multiple software apparatuses. For example, an API may be used for database communication between web applications. By extracting the implementation and relinquishing data into objects, an API simplifies programming.",
+                "related": ["rest", "graphql-api"]
             }
         ]
     }
