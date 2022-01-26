@@ -310,7 +310,9 @@
             { "title": "Prototyping", "name": "Prototyping" },
             { "title": "User-Testing", "name": "User Testing" },
             { "title": "rest", "name": "REST" },
-            { "title": "api", "name": "API" }
+            { "title": "api", "name": "API" },
+            { "title": "angular", "name": "Angular" },
+            { "title": "react-native", "name": "React Native" }
         ],
         "topics": [
             { 
@@ -337,7 +339,7 @@
             },
             { 
                 "aliases": ["react", "reactjs", "react.js"],
-                "name": "reactjs", 
+                "name": "React", 
                 "createdBy": "Jordan Walke", 
                 "released": "March 2013",
                 "website": "https://reactjs.org/",
@@ -567,7 +569,7 @@
                 "related": []
             },
             { 
-                "aliases": ["craftcms", "craft cms", "craft"],
+                "aliases": ["craftcms", "craft-cms", "craft cms", "craft"],
                 "name": "Craft CMS",
                 "createdBy": "",
                 "released": "",
@@ -578,7 +580,7 @@
                 "related": []
             },
             { 
-                "aliases": ["socket", "socket io", "socket-io"],
+                "aliases": ["socket.io", "socket", "socket io", "socket-io"],
                 "name": "Socket.IO",
                 "createdBy": "",
                 "released": "March 19, 2010",
