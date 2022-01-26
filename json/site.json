@@ -316,7 +316,9 @@
             { "title": "react-native", "name": "React Native" },
             { "title": "monero", "name": "Monero" },
             { "title": "aws-amplify", "name": "Amplify" },
-            { "title": "axios", "name": "Axios" }
+            { "title": "axios", "name": "Axios" },
+            { "title": "mongoose", "name": "Mongoose" },
+            { "title": "json", "name": "JavaScript Object Notation" }
         ],
         "topics": [
             { 
