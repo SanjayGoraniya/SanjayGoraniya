@@ -333,7 +333,7 @@
                 "wikipedia": "https://en.wikipedia.org/wiki/Node.js",
                 "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png",
                 "description": "Node.js is a tool for executing JavaScript in a variety of environments. JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation of developers to create servers, command-line tools, desktop apps, and even robots.",
-                "related": ["javascript", "mongodb"]
+                "related": ["javascript", "mongodb", "deno"]
             },
             { 
                 "aliases": ["react", "reactjs", "react.js"],
@@ -576,6 +576,72 @@
                 "logo": "https://avatars.githubusercontent.com/u/22369139?s=200&v=4",
                 "description": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
                 "related": []
+            },
+            { 
+                "aliases": ["socket", "socket io", "socket-io"],
+                "name": "Socket.IO",
+                "createdBy": "",
+                "released": "March 19, 2010",
+                "website": "https://socket.io/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Socket.IO",
+                "logo": "https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png",
+                "description": "Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API. Like Node.js, it is event-driven.",
+                "related": ["nodejs"]
+            },
+            { 
+                "aliases": ["tailwind", "tailwind css", "tailwind-css", "tailwindcss", "tailwind-scaffolding"],
+                "name": "Tailwind CSS",
+                "createdBy": "Adam Wathan, Jonathan Reinink, David Hemphill, Steve Schoger",
+                "released": "October 2017",
+                "website": "https://tailwindcss.com/",
+                "wikipedia": "",
+                "logo": "https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png",
+                "description": "Tailwind is an utility-first CSS framework for rapid UI development written in PostCSS and configured through JavaScript, making it highly customizable by design. Tailwind doesn’t have a default theme nor built-in UI components. This means it has no opinion about how your site should look and doesn’t impose design decisions that can be difficult to undo.",
+                "related": ["css", "bootstrap"]
+            },
+            { 
+                "aliases": ["bootstrap", "bootstrap3", "bootstrap-3", "bootstrap4", "bootstrap-4", "bootstrap5", "bootstrap-5"],
+                "name": "Bootstrap",
+                "createdBy": "Mark Otto, Jacob Thornton",
+                "released": "August 19, 2011",
+                "website": "https://getbootstrap.com/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png",
+                "description": "Bootstrap is a popular front-end framework that streamlines website design. It allows for the creation of easy and responsive web layouts.",
+                "related": ["css", "tailwind"]
+            },
+            { 
+                "aliases": ["mui", "material-ui", "material"],
+                "name": "MUI (Material-UI)",
+                "createdBy": "Hai Nguyen",
+                "released": "Nov 06, 2014",
+                "website": "https://mui.com/",
+                "wikipedia": "",
+                "logo": "https://avatars.githubusercontent.com/u/33663932?s=200&v=4",
+                "description": "MUI (Material-UI) is a simple and customizable component library to build faster, beautiful, and more accessible React applications",
+                "related": ["bootstrap"]
+            },
+            { 
+                "aliases": ["bash", "bash-script"],
+                "name": "Bash",
+                "createdBy": "Brian Fox",
+                "released": "June 8, 1989",
+                "website": "https://www.gnu.org/software/bash/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)",
+                "logo": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png",
+                "description": "Bash (Bourne Again Shell) is a shell and command language interpreter for the GNU operating system. It is meant to be an improved version of Bourne Shell.",
+                "related": ["shell"]
+            },
+            { 
+                "aliases": ["deno"],
+                "name": "Deno",
+                "createdBy": "Ryan Dahl",
+                "released": "13 May 2018",
+                "website": "https://deno.land/",
+                "wikipedia": "https://en.wikipedia.org/wiki/Deno_(software)",
+                "logo": "https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png",
+                "description": "Deno is a JavaScript/TypeScript runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.",
+                "related": ["rust", "typescript", "node"]
             }
         ]
     }
