@@ -318,6 +318,7 @@
             { "title": "aws-amplify", "name": "Amplify" },
             { "title": "axios", "name": "Axios" },
             { "title": "mongoose", "name": "Mongoose" },
+            { "title": "terraform", "name": "Terraform" },
             { "title": "json", "name": "JavaScript Object Notation" }
         ],
         "topics": [
