@@ -312,7 +312,9 @@
             { "title": "rest", "name": "REST" },
             { "title": "api", "name": "API" },
             { "title": "angular", "name": "Angular" },
-            { "title": "react-native", "name": "React Native" }
+            { "title": "react-native", "name": "React Native" },
+            { "title": "monero", "name": "Monero" }
+            
         ],
         "topics": [
             { 
