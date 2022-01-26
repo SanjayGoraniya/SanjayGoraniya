@@ -312,9 +312,11 @@
             { "title": "rest", "name": "REST" },
             { "title": "api", "name": "API" },
             { "title": "angular", "name": "Angular" },
+            { "title": "next", "name": "Next JS" },
             { "title": "react-native", "name": "React Native" },
-            { "title": "monero", "name": "Monero" }
-            
+            { "title": "monero", "name": "Monero" },
+            { "title": "aws-amplify", "name": "Amplify" },
+            { "title": "axios", "name": "Axios" }
         ],
         "topics": [
             { 
