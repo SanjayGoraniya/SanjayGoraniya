@@ -101,26 +101,8 @@
             {
                 "company": "Stack Summation",
                 "url": "https://www.stacksummation.com",
-                "time": "May 2021 - Present",
+                "time": "September 2018 - Present",
                 "position": "Senior Full Stack Developer"
-            },
-            {
-                "company": "Techitree",
-                "url": "https://www.techitree.com/",
-                "time": "October 2019 - December 2020",
-                "position": "MERN Developer"
-            },
-            {
-                "company": "AIS Technolabs",
-                "url": "https://www.aistechnolabs.com/",
-                "time": "April 2019 - October 2019",
-                "position": "NodeJS Developer"
-            },
-            {
-                "company": "IANT (Institute Of Advance Network Technology)",
-                "url": "https://www.iantindia.com/",
-                "time": "June 2016 - July 2017",
-                "position": "PHP Developer"
             }
         ],
         "otherProjects": [
