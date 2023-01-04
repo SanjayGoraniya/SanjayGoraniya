@@ -101,14 +101,26 @@
             {
                 "company": "Stack Summation",
                 "url": "https://www.stacksummation.com",
-                "time": "September 2018 - Present",
+                "time": "May 2021 - Jul 2022",
                 "position": "Senior Full Stack Developer"
+            },
+            {
+                "company": "TechiTree",
+                "url": "http://www.techitree.com",
+                "time": "Nov 2019 - Dec 2020",
+                "position": "Software Engineer"
+            },
+            {
+                "company": "AIS Technolabs Pvt Ltd",
+                "url": "https://www.aistechnolabs.com",
+                "time": "Apr 2019 - Oct 2019",
+                "position": "Node JS Developer"
             }
         ],
         "otherProjects": [
             {
-                "name": "IntelliTrack",
-                "description": "IntelliTrack is used to manage projects for contractors.",
+                "name": "SureWorx",
+                "description": "SureWorx is a powerful platform that converts real-time data into actionable insights, helping you build better, safer and more efficient.",
                 "used": [
                     "React",
                     "HTML",
@@ -117,11 +129,16 @@
                     "Material UI",
                     "Amplify"
                 ],
-                "links": []
+                "links": [
+                    {
+                        "title": "Website",
+                        "url": "https://sureworx.io/"
+                    }
+                ]
             },
             {
-                "name": "UP",
-                "description": "UP is a tool which used to analyse and optimise business agility and performance.",
+                "name": "Unlocking Potential",
+                "description": "Unlocking Potential is a tool which used to analyse and optimise business agility and performance.",
                 "used": [
                     "React",
                     "HTML",
@@ -129,7 +146,12 @@
                     "JavaScript",
                     "Bootstrap"
                 ],
-                "links": []
+                "links": [
+                    {
+                        "title": "Website",
+                        "url": "https://unlockingpotential.io/"
+                    }
+                ]
             },
             {
                 "name": "ReadyForWork",
@@ -143,7 +165,12 @@
                     "Bootstrap",
                     "Material UI"
                 ],
-                "links": []
+                "links": [
+                    {
+                        "title": "Website",
+                        "url": "https://readyforwork.africa/"
+                    }
+                ]
             },
             {
                 "name": "Personal Website V1",
