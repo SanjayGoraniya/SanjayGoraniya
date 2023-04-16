@@ -107,13 +107,19 @@
             {
                 "company": "TechiTree",
                 "url": "http://www.techitree.com",
-                "time": "Nov 2019 - Dec 2020",
+                "time": "Nov 2019 - Apr 2021",
                 "position": "Software Engineer"
             },
             {
                 "company": "AIS Technolabs Pvt Ltd",
                 "url": "https://www.aistechnolabs.com",
                 "time": "Apr 2019 - Oct 2019",
+                "position": "Node JS Developer"
+            },
+            {
+                "company": "Promptwebsolution",
+                "url": "http://promptwebsolution.com/",
+                "time": "Aug 2017 - Mar 2019",
                 "position": "Node JS Developer"
             }
         ],
