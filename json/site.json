@@ -1,6 +1,6 @@
 {
-    "name": "Sanjay Goraniya | Full Stack Software Engineer",
-    "title": "Sanjay Goraniya | Full Stack Software Engineer",
+    "name": "Sanjay Goraniya | Software Engineer",
+    "title": "Sanjay Goraniya | Software Engineer",
     "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
     "url": "https://sanjaygoraniya.com/",
     "baseurl": "sanjaygoraniya.github.io",
@@ -8,7 +8,7 @@
     "cover": "/img/og.png",
     "logo": "/img/logo/logo1.png",
     "siteMetadata": {
-        "title": "Sanjay Goraniya | Full Stack Software Engineer",
+        "title": "Sanjay Goraniya | Software Engineer",
         "description": "Sanjay Goraniya is a software engineer specializing in building websites, applications, and everything in between.",
         "siteUrl": "https://sanjaygoraniya.github.io",
         "image": "/img/og.png",
@@ -20,11 +20,6 @@
                 "name": "About",
                 "title": "About",
                 "to": "/#background"
-            },
-            {
-                "name": "Skills",
-                "title": "Skills",
-                "to": "/#skills"
             },
             {
                 "name": "Work",
@@ -50,7 +45,7 @@
         },
         "intro": {
             "emailButton": "Hire Me",
-            "specialty": "Senior Full Stack Developer / AWS Expert"
+            "specialty": "Software Engineer"
         },
         "skills": {
             "languages": [
@@ -99,6 +94,17 @@
         },
         "experience": [
             {
+                "company": "Tech Mahindra",
+                "url": "https://www.techmahindra.com/",
+                "time": "Jan 2024 - Present",
+                "position": "Software Engineer - Formula E Team"
+            },
+            {
+                "company": "Remote",
+                "time": "Aug 2022 - Dec 2023",
+                "position": "Freelance Full Stack Developer"
+            },
+            {
                 "company": "Stack Summation",
                 "url": "https://www.stacksummation.com",
                 "time": "May 2021 - Jul 2022",
@@ -124,6 +130,31 @@
             }
         ],
         "otherProjects": [
+            {
+                "name": "Rubicon",
+                "description": "A real-time race decision support system in motor racing, providing instant telemetry for strategic decisions.",
+                "used": [
+                    "React",
+                    "Node.js",
+                    "TypeScript",
+                    "AWS",
+                    "Microservices",
+                    "Socket.io"
+                ],
+                "links": []
+            },
+            {
+                "name": "SSN Kinetica Desktop App",
+                "description": "Reads SSN data from Kinetica and delivers interactive visualizations to explore and analyze vehicle data",
+                "used": [
+                    "React",
+                    "TypeScript",
+                    "Electron.js",
+                    "Node.js",
+                    "AWS"
+                ],
+                "links": []
+            },
             {
                 "name": "SureWorx",
                 "description": "SureWorx is a powerful platform that converts real-time data into actionable insights, helping you build better, safer and more efficient.",
@@ -223,7 +254,7 @@
                 "links": []
             },
             {
-                "name": "Ecommerce–LuxyList",
+                "name": "Ecommerce - LuxyList",
                 "description": "LuxyList is e-commerce website like online store",
                 "used": [
                     "RC(Reaction-Commerce)",
