@@ -1,5 +1,9 @@
-<p align="center">
-  <a href="https://sanjaygoraniya.github.io">
-    <img src="https://repository-images.githubusercontent.com/333437040/80ce312b-adad-4aaa-8986-dd7586c51d5e" width="640" height="320" alt="SanjayGoraniya.github.io" />
-  </a>
-</p>
+# Hi, I'm Sanjay Goraniya 👋
+
+I'm a full-stack software engineer with 6+ years of experience building real-time web apps, scalable dashboards, and cloud-native services.
+
+🔧 Skilled in React, Node.js, TypeScript, GraphQL, AWS, and AI-powered tools.
+
+🚀 Currently working on Formula E telemetry dashboards at Tech Mahindra.
+
+🌐 Portfolio: [sanjaygoraniya.dev](https://sanjaygoraniya.dev)
